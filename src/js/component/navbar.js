@@ -5,7 +5,7 @@ export function Navbar() {
 		<div className="text-center mt-0">
 			<nav className="navbar navbar-dark bg-dark">
 				<a className="navbar-brand" href="#">
-					Navbar
+					Travel
 				</a>
 			</nav>
 
