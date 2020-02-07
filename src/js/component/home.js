@@ -8,7 +8,6 @@ import Montse from "../../img/montse.jpg";
 import Antigua from "../../img/antigua.jpg";
 import Jamaica from "../../img/jamaica.jpg";
 
-//create your first component
 export function Home() {
 	return (
 		<>
